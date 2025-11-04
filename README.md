@@ -38,6 +38,9 @@ Bagian ini menampilkan hasil rancangan antarmuka (mockup) dari **FórtiStore**. 
 ### 🏠 Dashboard
 <img width="449" height="239" alt="image" src="https://github.com/user-attachments/assets/eab5e027-62e5-4506-bf83-6a06139b5ea9" />
 
+## 🏭 Alur Bisnis Proses – FórtiStore (Manajemen Gudang)
+
+```text
 [Admin Login]
     ↓
 [Dashboard Utama]
@@ -70,6 +73,7 @@ Bagian ini menampilkan hasil rancangan antarmuka (mockup) dari **FórtiStore**. 
             └─ Export Data (PDF / Excel)
     ↓
 [Database] ← Semua perubahan tersimpan otomatis
+
 
 ```
 
