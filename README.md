@@ -106,12 +106,14 @@ Bagian ini menampilkan hasil rancangan antarmuka (mockup) dari **FórtiStore**. 
 -Diagram ini menggambarkan alur utama sistem FórtiStore, yaitu aplikasi
 manajemen gudang untuk mencatat dan mengelola data karyawan, data barang,
 layanan permintaan barang, serta laporan aktivitas gudang.
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd0d63ad-6e83-4bab-a29c-cf0529e3027f" />
+<img width="1536" height="1024" alt="ChatGPT Image Nov 4, 2025, 09_51_45 PM" src="https://github.com/user-attachments/assets/0a504030-86b6-497e-9af5-b86e780f644d" />
+
 
 
 ## 📝 Diagram Model Data
 -Sistem FórtiStore menyimpan data di MongoDB dengan beberapa koleksi utama:
 Admin, Karyawan, Barang, Permintaan, dan Laporan Gudang.
 Setiap koleksi memiliki struktur serta relasi yang sederhana dan saling terhubung.
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0c67d19-33d7-4eb6-9777-4089bfdce538" />
+<img width="1536" height="1024" alt="ChatGPT Image Nov 4, 2025, 09_59_07 PM" src="https://github.com/user-attachments/assets/18a3f443-f891-491c-b361-a7512baa100b" />
+
 
